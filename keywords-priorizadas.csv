@@ -1,0 +1,240 @@
+prioridade,keyword,cluster,cidade,intencao,volume_mes,dificuldade,cpc_usd,fonte,pagina_alvo,tipo,status,observacao
+P0,roofing houston,head term,Houston,transacional,8100,30,32.58,Ubersuggest 26/10,/,home,otimizar,
+P0,roofing companies houston,head term,Houston,transacional,5400,35,20.3,Ubersuggest 26/10,/,home,otimizar,
+P0,roof repair houston texas,head term,Houston,transacional,5400,37,35.59,Ubersuggest 26/10,/roof-repair-houston/,service,otimizar,
+P0,roof repair houston tx,head term,Houston,transacional,4400,34,22.83,Ubersuggest 26/10,/roof-repair-houston/,service,otimizar,
+P0,roofing houston texas,head term,Houston,transacional,2900,16,17.89,Ubersuggest 26/10,/,home,otimizar,
+P0,commercial roofing houston texas,head term,Houston,transacional B2B,1600,16,48.2,Ubersuggest 26/10,/commercial-roofing-houston/,service,otimizar,
+P0,roof replacement houston tx,head term,Houston,transacional,1600,43,20.0,Ubersuggest 26/10,/roof-replacement-houston/,service,otimizar,
+P0,commercial roofing houston,head term,Houston,transacional B2B,1000,22,17.2,Ubersuggest 26/10,/commercial-roofing-houston/,service,otimizar,
+P0,katy roofing company,city,Katy,transacional,880,15,21.2,Ubersuggest 26/10,/service-areas/roofers-katy-tx/,city hub,reconstruir,ancora local medida
+P0,commercial roofing houston tx,head term,Houston,transacional B2B,720,25,9.2,Ubersuggest 26/10,/commercial-roofing-houston/,service,otimizar,
+P0,metal roofing houston,head term,Houston,transacional,390,22,20.6,Ubersuggest 26/10,/metal-roofing-houston/,service,otimizar,
+P0,roof inspection houston tx,head term,Houston,transacional,320,10,47.3,Ubersuggest 26/10,/roof-inspection-houston/,service,criar,gap: sem pagina dedicada
+P0,tpo roofing houston,head term,Houston,transacional B2B,210,9,14.7,Ubersuggest 26/10,/tpo-roofing/,service,otimizar,
+P0,emergency roof repair houston,head term,Houston,transacional urgente,170,10,0.0,Ubersuggest 26/10,/emergency-roof-repair-houston/,service,criar,gap: sem pagina dedicada
+P0,flat roofing houston tx,head term,Houston,transacional B2B,90,6,0.0,Ubersuggest 26/10,/flat-roofing-houston/,service,criar,gap: sem pagina dedicada
+P0,metal roofer near me,national,EUA,transacional,14800,25,,Ubersuggest 26/10,/metal-roofing-houston/,service,otimizar,
+P0,commercial roofer near me,national,EUA,transacional B2B,14800,17,,Ubersuggest 26/10,/commercial-roofing-houston/,service,otimizar,
+P0,install metal roof cost,national,EUA,informacional comercial,12100,35,,Ubersuggest 26/10,/metal-roof-cost-houston/,guide,otimizar,
+P0,emergency roof repair,national,EUA,transacional urgente,8100,19,,Ubersuggest 26/10,/emergency-roof-repair-houston/,service,criar,
+P1,flat roofing repair,national,EUA,transacional,6600,22,,Ubersuggest 26/10,/flat-roofing-houston/,service,criar,
+P1,metal roof cost vs shingles,national,EUA,informacional comercial,6600,15,,Ubersuggest 26/10,/metal-roof-cost-houston/,guide,otimizar,
+P1,asphalt roof replacement cost,national,EUA,informacional comercial,9900,24,,Ubersuggest 26/10,/roof-replacement-cost-houston/,guide,criar,
+P1,asphalt shingle roofing costs,national,EUA,informacional comercial,9900,9,,Ubersuggest 26/10,/asphalt-shingle-roofing-houston/,service,otimizar,
+P1,emergency roof repair near me,national,EUA,transacional urgente,5400,12,,Ubersuggest 26/10,/emergency-roof-repair-houston/,service,criar,
+P1,roof replacement cost calculator,national,EUA,informacional comercial,4400,36,,Ubersuggest 26/10,/roof-replacement-cost-calculator/,tool,criar,
+P1,cost of roof leak repair,national,EUA,informacional comercial,3600,17,,Ubersuggest 26/10,/roof-leak-repair-cost-houston/,guide,criar,
+P1,standing seam metal roof cost,national,EUA,informacional comercial,3600,20,,Ubersuggest 26/10,/metal-roof-cost-houston/,guide,otimizar,
+P0,roofing company katy,city,Katy,transacional,880,,,Ubersuggest 26/10 (agregado 32.680/mes) / validar MCP,/service-areas/roofers-katy-tx/,city hub,reconstruir,volume individual a validar
+P0,roofer katy,city,Katy,transacional,,,,validar MCP,/service-areas/roofers-katy-tx/,city hub,reconstruir,volume individual a validar
+P0,roof repair katy,city,Katy,transacional,,,,validar MCP,/service-areas/roofers-katy-tx/,city hub,reconstruir,volume individual a validar
+P0,roof replacement katy,city,Katy,transacional,,,,validar MCP,/service-areas/roofers-katy-tx/,city hub,reconstruir,volume individual a validar
+P2,metal roofing katy,service x city,Katy,transacional,,,,validar MCP,/service-areas/roofers-katy-tx/,service x city,avaliar,so criar se houver demanda
+P2,commercial roofing katy,service x city,Katy,transacional,,,,validar MCP,/service-areas/roofers-katy-tx/,service x city,avaliar,so criar se houver demanda
+P2,storm damage roof repair katy,service x city,Katy,transacional,,,,validar MCP,/service-areas/roofers-katy-tx/,service x city,avaliar,so criar se houver demanda
+P2,roof inspection katy,service x city,Katy,transacional,,,,validar MCP,/service-areas/roofers-katy-tx/,service x city,avaliar,so criar se houver demanda
+P0,roofing company sugar land,city,Sugar Land,transacional,,,,Ubersuggest 26/10 (agregado 32.680/mes) / validar MCP,/service-areas/roofers-sugar-land-tx/,city hub,reconstruir,volume individual a validar
+P0,roofer sugar land,city,Sugar Land,transacional,,,,validar MCP,/service-areas/roofers-sugar-land-tx/,city hub,reconstruir,volume individual a validar
+P0,roof repair sugar land,city,Sugar Land,transacional,,,,validar MCP,/service-areas/roofers-sugar-land-tx/,city hub,reconstruir,volume individual a validar
+P0,roof replacement sugar land,city,Sugar Land,transacional,,,,validar MCP,/service-areas/roofers-sugar-land-tx/,city hub,reconstruir,volume individual a validar
+P2,metal roofing sugar land,service x city,Sugar Land,transacional,,,,validar MCP,/service-areas/roofers-sugar-land-tx/,service x city,avaliar,so criar se houver demanda
+P2,commercial roofing sugar land,service x city,Sugar Land,transacional,,,,validar MCP,/service-areas/roofers-sugar-land-tx/,service x city,avaliar,so criar se houver demanda
+P2,storm damage roof repair sugar land,service x city,Sugar Land,transacional,,,,validar MCP,/service-areas/roofers-sugar-land-tx/,service x city,avaliar,so criar se houver demanda
+P2,roof inspection sugar land,service x city,Sugar Land,transacional,,,,validar MCP,/service-areas/roofers-sugar-land-tx/,service x city,avaliar,so criar se houver demanda
+P0,roofing company spring,city,Spring,transacional,,,,Ubersuggest 26/10 (agregado 32.680/mes) / validar MCP,/service-areas/roofers-spring-tx/,city hub,reconstruir,volume individual a validar
+P0,roofer spring,city,Spring,transacional,,,,validar MCP,/service-areas/roofers-spring-tx/,city hub,reconstruir,volume individual a validar
+P0,roof repair spring,city,Spring,transacional,,,,validar MCP,/service-areas/roofers-spring-tx/,city hub,reconstruir,volume individual a validar
+P0,roof replacement spring,city,Spring,transacional,,,,validar MCP,/service-areas/roofers-spring-tx/,city hub,reconstruir,volume individual a validar
+P2,metal roofing spring,service x city,Spring,transacional,,,,validar MCP,/service-areas/roofers-spring-tx/,service x city,avaliar,so criar se houver demanda
+P2,commercial roofing spring,service x city,Spring,transacional,,,,validar MCP,/service-areas/roofers-spring-tx/,service x city,avaliar,so criar se houver demanda
+P2,storm damage roof repair spring,service x city,Spring,transacional,,,,validar MCP,/service-areas/roofers-spring-tx/,service x city,avaliar,so criar se houver demanda
+P2,roof inspection spring,service x city,Spring,transacional,,,,validar MCP,/service-areas/roofers-spring-tx/,service x city,avaliar,so criar se houver demanda
+P0,roofing company the woodlands,city,The Woodlands,transacional,,,,Ubersuggest 26/10 (agregado 32.680/mes) / validar MCP,/service-areas/roofers-the-woodlands-tx/,city hub,reconstruir,volume individual a validar
+P0,roofer the woodlands,city,The Woodlands,transacional,,,,validar MCP,/service-areas/roofers-the-woodlands-tx/,city hub,reconstruir,volume individual a validar
+P0,roof repair the woodlands,city,The Woodlands,transacional,,,,validar MCP,/service-areas/roofers-the-woodlands-tx/,city hub,reconstruir,volume individual a validar
+P0,roof replacement the woodlands,city,The Woodlands,transacional,,,,validar MCP,/service-areas/roofers-the-woodlands-tx/,city hub,reconstruir,volume individual a validar
+P2,metal roofing the woodlands,service x city,The Woodlands,transacional,,,,validar MCP,/service-areas/roofers-the-woodlands-tx/,service x city,avaliar,so criar se houver demanda
+P2,commercial roofing the woodlands,service x city,The Woodlands,transacional,,,,validar MCP,/service-areas/roofers-the-woodlands-tx/,service x city,avaliar,so criar se houver demanda
+P2,storm damage roof repair the woodlands,service x city,The Woodlands,transacional,,,,validar MCP,/service-areas/roofers-the-woodlands-tx/,service x city,avaliar,so criar se houver demanda
+P2,roof inspection the woodlands,service x city,The Woodlands,transacional,,,,validar MCP,/service-areas/roofers-the-woodlands-tx/,service x city,avaliar,so criar se houver demanda
+P0,roofing company cypress,city,Cypress,transacional,,,,Ubersuggest 26/10 (agregado 32.680/mes) / validar MCP,/service-areas/roofers-cypress-tx/,city hub,reconstruir,volume individual a validar
+P0,roofer cypress,city,Cypress,transacional,,,,validar MCP,/service-areas/roofers-cypress-tx/,city hub,reconstruir,volume individual a validar
+P0,roof repair cypress,city,Cypress,transacional,,,,validar MCP,/service-areas/roofers-cypress-tx/,city hub,reconstruir,volume individual a validar
+P0,roof replacement cypress,city,Cypress,transacional,,,,validar MCP,/service-areas/roofers-cypress-tx/,city hub,reconstruir,volume individual a validar
+P2,metal roofing cypress,service x city,Cypress,transacional,,,,validar MCP,/service-areas/roofers-cypress-tx/,service x city,avaliar,so criar se houver demanda
+P2,commercial roofing cypress,service x city,Cypress,transacional,,,,validar MCP,/service-areas/roofers-cypress-tx/,service x city,avaliar,so criar se houver demanda
+P2,storm damage roof repair cypress,service x city,Cypress,transacional,,,,validar MCP,/service-areas/roofers-cypress-tx/,service x city,avaliar,so criar se houver demanda
+P2,roof inspection cypress,service x city,Cypress,transacional,,,,validar MCP,/service-areas/roofers-cypress-tx/,service x city,avaliar,so criar se houver demanda
+P0,roofing company pearland,city,Pearland,transacional,,,,Ubersuggest 26/10 (agregado 32.680/mes) / validar MCP,/service-areas/roofers-pearland-tx/,city hub,reconstruir,volume individual a validar
+P0,roofer pearland,city,Pearland,transacional,,,,validar MCP,/service-areas/roofers-pearland-tx/,city hub,reconstruir,volume individual a validar
+P0,roof repair pearland,city,Pearland,transacional,,,,validar MCP,/service-areas/roofers-pearland-tx/,city hub,reconstruir,volume individual a validar
+P0,roof replacement pearland,city,Pearland,transacional,,,,validar MCP,/service-areas/roofers-pearland-tx/,city hub,reconstruir,volume individual a validar
+P2,metal roofing pearland,service x city,Pearland,transacional,,,,validar MCP,/service-areas/roofers-pearland-tx/,service x city,avaliar,so criar se houver demanda
+P2,commercial roofing pearland,service x city,Pearland,transacional,,,,validar MCP,/service-areas/roofers-pearland-tx/,service x city,avaliar,so criar se houver demanda
+P2,storm damage roof repair pearland,service x city,Pearland,transacional,,,,validar MCP,/service-areas/roofers-pearland-tx/,service x city,avaliar,so criar se houver demanda
+P2,roof inspection pearland,service x city,Pearland,transacional,,,,validar MCP,/service-areas/roofers-pearland-tx/,service x city,avaliar,so criar se houver demanda
+P0,roofing company conroe,city,Conroe,transacional,,,,Ubersuggest 26/10 (agregado 32.680/mes) / validar MCP,/service-areas/roofers-conroe-tx/,city hub,reconstruir,volume individual a validar
+P0,roofer conroe,city,Conroe,transacional,,,,validar MCP,/service-areas/roofers-conroe-tx/,city hub,reconstruir,volume individual a validar
+P0,roof repair conroe,city,Conroe,transacional,,,,validar MCP,/service-areas/roofers-conroe-tx/,city hub,reconstruir,volume individual a validar
+P0,roof replacement conroe,city,Conroe,transacional,,,,validar MCP,/service-areas/roofers-conroe-tx/,city hub,reconstruir,volume individual a validar
+P2,metal roofing conroe,service x city,Conroe,transacional,,,,validar MCP,/service-areas/roofers-conroe-tx/,service x city,avaliar,so criar se houver demanda
+P2,commercial roofing conroe,service x city,Conroe,transacional,,,,validar MCP,/service-areas/roofers-conroe-tx/,service x city,avaliar,so criar se houver demanda
+P2,storm damage roof repair conroe,service x city,Conroe,transacional,,,,validar MCP,/service-areas/roofers-conroe-tx/,service x city,avaliar,so criar se houver demanda
+P2,roof inspection conroe,service x city,Conroe,transacional,,,,validar MCP,/service-areas/roofers-conroe-tx/,service x city,avaliar,so criar se houver demanda
+P0,roofing company tomball,city,Tomball,transacional,,,,Ubersuggest 26/10 (agregado 32.680/mes) / validar MCP,/service-areas/roofers-tomball-tx/,city hub,reconstruir,volume individual a validar
+P0,roofer tomball,city,Tomball,transacional,,,,validar MCP,/service-areas/roofers-tomball-tx/,city hub,reconstruir,volume individual a validar
+P0,roof repair tomball,city,Tomball,transacional,,,,validar MCP,/service-areas/roofers-tomball-tx/,city hub,reconstruir,volume individual a validar
+P0,roof replacement tomball,city,Tomball,transacional,,,,validar MCP,/service-areas/roofers-tomball-tx/,city hub,reconstruir,volume individual a validar
+P2,metal roofing tomball,service x city,Tomball,transacional,,,,validar MCP,/service-areas/roofers-tomball-tx/,service x city,avaliar,so criar se houver demanda
+P2,commercial roofing tomball,service x city,Tomball,transacional,,,,validar MCP,/service-areas/roofers-tomball-tx/,service x city,avaliar,so criar se houver demanda
+P2,storm damage roof repair tomball,service x city,Tomball,transacional,,,,validar MCP,/service-areas/roofers-tomball-tx/,service x city,avaliar,so criar se houver demanda
+P2,roof inspection tomball,service x city,Tomball,transacional,,,,validar MCP,/service-areas/roofers-tomball-tx/,service x city,avaliar,so criar se houver demanda
+P0,roofing company kingwood,city,Kingwood,transacional,,,,Ubersuggest 26/10 (agregado 32.680/mes) / validar MCP,/service-areas/roofers-kingwood-tx/,city hub,reconstruir,volume individual a validar
+P0,roofer kingwood,city,Kingwood,transacional,,,,validar MCP,/service-areas/roofers-kingwood-tx/,city hub,reconstruir,volume individual a validar
+P0,roof repair kingwood,city,Kingwood,transacional,,,,validar MCP,/service-areas/roofers-kingwood-tx/,city hub,reconstruir,volume individual a validar
+P0,roof replacement kingwood,city,Kingwood,transacional,,,,validar MCP,/service-areas/roofers-kingwood-tx/,city hub,reconstruir,volume individual a validar
+P2,metal roofing kingwood,service x city,Kingwood,transacional,,,,validar MCP,/service-areas/roofers-kingwood-tx/,service x city,avaliar,so criar se houver demanda
+P2,commercial roofing kingwood,service x city,Kingwood,transacional,,,,validar MCP,/service-areas/roofers-kingwood-tx/,service x city,avaliar,so criar se houver demanda
+P2,storm damage roof repair kingwood,service x city,Kingwood,transacional,,,,validar MCP,/service-areas/roofers-kingwood-tx/,service x city,avaliar,so criar se houver demanda
+P2,roof inspection kingwood,service x city,Kingwood,transacional,,,,validar MCP,/service-areas/roofers-kingwood-tx/,service x city,avaliar,so criar se houver demanda
+P0,roofing company missouri city,city,Missouri City,transacional,,,,Ubersuggest 26/10 (agregado 32.680/mes) / validar MCP,/service-areas/roofers-missouri-city-tx/,city hub,reconstruir,volume individual a validar
+P0,roofer missouri city,city,Missouri City,transacional,,,,validar MCP,/service-areas/roofers-missouri-city-tx/,city hub,reconstruir,volume individual a validar
+P0,roof repair missouri city,city,Missouri City,transacional,,,,validar MCP,/service-areas/roofers-missouri-city-tx/,city hub,reconstruir,volume individual a validar
+P0,roof replacement missouri city,city,Missouri City,transacional,,,,validar MCP,/service-areas/roofers-missouri-city-tx/,city hub,reconstruir,volume individual a validar
+P2,metal roofing missouri city,service x city,Missouri City,transacional,,,,validar MCP,/service-areas/roofers-missouri-city-tx/,service x city,avaliar,so criar se houver demanda
+P2,commercial roofing missouri city,service x city,Missouri City,transacional,,,,validar MCP,/service-areas/roofers-missouri-city-tx/,service x city,avaliar,so criar se houver demanda
+P2,storm damage roof repair missouri city,service x city,Missouri City,transacional,,,,validar MCP,/service-areas/roofers-missouri-city-tx/,service x city,avaliar,so criar se houver demanda
+P2,roof inspection missouri city,service x city,Missouri City,transacional,,,,validar MCP,/service-areas/roofers-missouri-city-tx/,service x city,avaliar,so criar se houver demanda
+P1,roofing company bellaire,city,Bellaire,transacional,,,,Ubersuggest 26/10 (agregado 32.680/mes) / validar MCP,/service-areas/roofers-bellaire-tx/,city hub,upgrade,volume individual a validar
+P1,roofer bellaire,city,Bellaire,transacional,,,,validar MCP,/service-areas/roofers-bellaire-tx/,city hub,upgrade,volume individual a validar
+P1,roof repair bellaire,city,Bellaire,transacional,,,,validar MCP,/service-areas/roofers-bellaire-tx/,city hub,upgrade,volume individual a validar
+P1,roof replacement bellaire,city,Bellaire,transacional,,,,validar MCP,/service-areas/roofers-bellaire-tx/,city hub,upgrade,volume individual a validar
+P2,metal roofing bellaire,service x city,Bellaire,transacional,,,,validar MCP,/service-areas/roofers-bellaire-tx/,service x city,avaliar,so criar se houver demanda
+P2,commercial roofing bellaire,service x city,Bellaire,transacional,,,,validar MCP,/service-areas/roofers-bellaire-tx/,service x city,avaliar,so criar se houver demanda
+P2,storm damage roof repair bellaire,service x city,Bellaire,transacional,,,,validar MCP,/service-areas/roofers-bellaire-tx/,service x city,avaliar,so criar se houver demanda
+P2,roof inspection bellaire,service x city,Bellaire,transacional,,,,validar MCP,/service-areas/roofers-bellaire-tx/,service x city,avaliar,so criar se houver demanda
+P1,roofing company river oaks,city,River Oaks,transacional,,,,Ubersuggest 26/10 (agregado 32.680/mes) / validar MCP,/service-areas/roofers-river-oaks-tx/,city hub,upgrade,volume individual a validar
+P1,roofer river oaks,city,River Oaks,transacional,,,,validar MCP,/service-areas/roofers-river-oaks-tx/,city hub,upgrade,volume individual a validar
+P1,roof repair river oaks,city,River Oaks,transacional,,,,validar MCP,/service-areas/roofers-river-oaks-tx/,city hub,upgrade,volume individual a validar
+P1,roof replacement river oaks,city,River Oaks,transacional,,,,validar MCP,/service-areas/roofers-river-oaks-tx/,city hub,upgrade,volume individual a validar
+P2,metal roofing river oaks,service x city,River Oaks,transacional,,,,validar MCP,/service-areas/roofers-river-oaks-tx/,service x city,avaliar,so criar se houver demanda
+P2,commercial roofing river oaks,service x city,River Oaks,transacional,,,,validar MCP,/service-areas/roofers-river-oaks-tx/,service x city,avaliar,so criar se houver demanda
+P2,storm damage roof repair river oaks,service x city,River Oaks,transacional,,,,validar MCP,/service-areas/roofers-river-oaks-tx/,service x city,avaliar,so criar se houver demanda
+P2,roof inspection river oaks,service x city,River Oaks,transacional,,,,validar MCP,/service-areas/roofers-river-oaks-tx/,service x city,avaliar,so criar se houver demanda
+P1,roofing company champions,city,Champions,transacional,,,,Ubersuggest 26/10 (agregado 32.680/mes) / validar MCP,/service-areas/roofers-champions-tx/,city hub,upgrade,volume individual a validar
+P1,roofer champions,city,Champions,transacional,,,,validar MCP,/service-areas/roofers-champions-tx/,city hub,upgrade,volume individual a validar
+P1,roof repair champions,city,Champions,transacional,,,,validar MCP,/service-areas/roofers-champions-tx/,city hub,upgrade,volume individual a validar
+P1,roof replacement champions,city,Champions,transacional,,,,validar MCP,/service-areas/roofers-champions-tx/,city hub,upgrade,volume individual a validar
+P2,metal roofing champions,service x city,Champions,transacional,,,,validar MCP,/service-areas/roofers-champions-tx/,service x city,avaliar,so criar se houver demanda
+P2,commercial roofing champions,service x city,Champions,transacional,,,,validar MCP,/service-areas/roofers-champions-tx/,service x city,avaliar,so criar se houver demanda
+P2,storm damage roof repair champions,service x city,Champions,transacional,,,,validar MCP,/service-areas/roofers-champions-tx/,service x city,avaliar,so criar se houver demanda
+P2,roof inspection champions,service x city,Champions,transacional,,,,validar MCP,/service-areas/roofers-champions-tx/,service x city,avaliar,so criar se houver demanda
+P1,roofing company cinco ranch,city,Cinco Ranch,transacional,,,,Ubersuggest 26/10 (agregado 32.680/mes) / validar MCP,/service-areas/roofers-cinco-ranch-tx/,city hub,upgrade,volume individual a validar
+P1,roofer cinco ranch,city,Cinco Ranch,transacional,,,,validar MCP,/service-areas/roofers-cinco-ranch-tx/,city hub,upgrade,volume individual a validar
+P1,roof repair cinco ranch,city,Cinco Ranch,transacional,,,,validar MCP,/service-areas/roofers-cinco-ranch-tx/,city hub,upgrade,volume individual a validar
+P1,roof replacement cinco ranch,city,Cinco Ranch,transacional,,,,validar MCP,/service-areas/roofers-cinco-ranch-tx/,city hub,upgrade,volume individual a validar
+P2,metal roofing cinco ranch,service x city,Cinco Ranch,transacional,,,,validar MCP,/service-areas/roofers-cinco-ranch-tx/,service x city,avaliar,so criar se houver demanda
+P2,commercial roofing cinco ranch,service x city,Cinco Ranch,transacional,,,,validar MCP,/service-areas/roofers-cinco-ranch-tx/,service x city,avaliar,so criar se houver demanda
+P2,storm damage roof repair cinco ranch,service x city,Cinco Ranch,transacional,,,,validar MCP,/service-areas/roofers-cinco-ranch-tx/,service x city,avaliar,so criar se houver demanda
+P2,roof inspection cinco ranch,service x city,Cinco Ranch,transacional,,,,validar MCP,/service-areas/roofers-cinco-ranch-tx/,service x city,avaliar,so criar se houver demanda
+P1,roofing company montgomery,city,Montgomery,transacional,,,,Ubersuggest 26/10 (agregado 32.680/mes) / validar MCP,/service-areas/roofers-montgomery-tx/,city hub,upgrade,volume individual a validar
+P1,roofer montgomery,city,Montgomery,transacional,,,,validar MCP,/service-areas/roofers-montgomery-tx/,city hub,upgrade,volume individual a validar
+P1,roof repair montgomery,city,Montgomery,transacional,,,,validar MCP,/service-areas/roofers-montgomery-tx/,city hub,upgrade,volume individual a validar
+P1,roof replacement montgomery,city,Montgomery,transacional,,,,validar MCP,/service-areas/roofers-montgomery-tx/,city hub,upgrade,volume individual a validar
+P2,metal roofing montgomery,service x city,Montgomery,transacional,,,,validar MCP,/service-areas/roofers-montgomery-tx/,service x city,avaliar,so criar se houver demanda
+P2,commercial roofing montgomery,service x city,Montgomery,transacional,,,,validar MCP,/service-areas/roofers-montgomery-tx/,service x city,avaliar,so criar se houver demanda
+P2,storm damage roof repair montgomery,service x city,Montgomery,transacional,,,,validar MCP,/service-areas/roofers-montgomery-tx/,service x city,avaliar,so criar se houver demanda
+P2,roof inspection montgomery,service x city,Montgomery,transacional,,,,validar MCP,/service-areas/roofers-montgomery-tx/,service x city,avaliar,so criar se houver demanda
+P1,roofing company spring valley village,city,Spring Valley Village,transacional,,,,Ubersuggest 26/10 (agregado 32.680/mes) / validar MCP,/service-areas/roofers-spring-valley-village-tx/,city hub,upgrade,volume individual a validar
+P1,roofer spring valley village,city,Spring Valley Village,transacional,,,,validar MCP,/service-areas/roofers-spring-valley-village-tx/,city hub,upgrade,volume individual a validar
+P1,roof repair spring valley village,city,Spring Valley Village,transacional,,,,validar MCP,/service-areas/roofers-spring-valley-village-tx/,city hub,upgrade,volume individual a validar
+P1,roof replacement spring valley village,city,Spring Valley Village,transacional,,,,validar MCP,/service-areas/roofers-spring-valley-village-tx/,city hub,upgrade,volume individual a validar
+P2,metal roofing spring valley village,service x city,Spring Valley Village,transacional,,,,validar MCP,/service-areas/roofers-spring-valley-village-tx/,service x city,avaliar,so criar se houver demanda
+P2,commercial roofing spring valley village,service x city,Spring Valley Village,transacional,,,,validar MCP,/service-areas/roofers-spring-valley-village-tx/,service x city,avaliar,so criar se houver demanda
+P2,storm damage roof repair spring valley village,service x city,Spring Valley Village,transacional,,,,validar MCP,/service-areas/roofers-spring-valley-village-tx/,service x city,avaliar,so criar se houver demanda
+P2,roof inspection spring valley village,service x city,Spring Valley Village,transacional,,,,validar MCP,/service-areas/roofers-spring-valley-village-tx/,service x city,avaliar,so criar se houver demanda
+P1,roofing company hunters creek village,city,Hunters Creek Village,transacional,,,,Ubersuggest 26/10 (agregado 32.680/mes) / validar MCP,/service-areas/roofers-hunters-creek-village-tx/,city hub,upgrade,volume individual a validar
+P1,roofer hunters creek village,city,Hunters Creek Village,transacional,,,,validar MCP,/service-areas/roofers-hunters-creek-village-tx/,city hub,upgrade,volume individual a validar
+P1,roof repair hunters creek village,city,Hunters Creek Village,transacional,,,,validar MCP,/service-areas/roofers-hunters-creek-village-tx/,city hub,upgrade,volume individual a validar
+P1,roof replacement hunters creek village,city,Hunters Creek Village,transacional,,,,validar MCP,/service-areas/roofers-hunters-creek-village-tx/,city hub,upgrade,volume individual a validar
+P2,metal roofing hunters creek village,service x city,Hunters Creek Village,transacional,,,,validar MCP,/service-areas/roofers-hunters-creek-village-tx/,service x city,avaliar,so criar se houver demanda
+P2,commercial roofing hunters creek village,service x city,Hunters Creek Village,transacional,,,,validar MCP,/service-areas/roofers-hunters-creek-village-tx/,service x city,avaliar,so criar se houver demanda
+P2,storm damage roof repair hunters creek village,service x city,Hunters Creek Village,transacional,,,,validar MCP,/service-areas/roofers-hunters-creek-village-tx/,service x city,avaliar,so criar se houver demanda
+P2,roof inspection hunters creek village,service x city,Hunters Creek Village,transacional,,,,validar MCP,/service-areas/roofers-hunters-creek-village-tx/,service x city,avaliar,so criar se houver demanda
+P1,roofer spring branch,proximity,Spring Branch,transacional,,,,validar MCP,/service-areas/roofers-spring-branch-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof repair spring branch,proximity,Spring Branch,transacional,,,,validar MCP,/service-areas/roofers-spring-branch-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof replacement spring branch,proximity,Spring Branch,transacional,,,,validar MCP,/service-areas/roofers-spring-branch-tx/,city hub,criar,novo; prova local obrigatoria
+P1,roofer garden oaks,proximity,Garden Oaks / Oak Forest,transacional,,,,validar MCP,/service-areas/roofers-garden-oaks-oak-forest-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof repair garden oaks / oak forest,proximity,Garden Oaks / Oak Forest,transacional,,,,validar MCP,/service-areas/roofers-garden-oaks-oak-forest-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof replacement garden oaks / oak forest,proximity,Garden Oaks / Oak Forest,transacional,,,,validar MCP,/service-areas/roofers-garden-oaks-oak-forest-tx/,city hub,criar,novo; prova local obrigatoria
+P1,roofer timbergrove,proximity,Timbergrove,transacional,,,,validar MCP,/service-areas/roofers-timbergrove-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof repair timbergrove,proximity,Timbergrove,transacional,,,,validar MCP,/service-areas/roofers-timbergrove-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof replacement timbergrove,proximity,Timbergrove,transacional,,,,validar MCP,/service-areas/roofers-timbergrove-tx/,city hub,criar,novo; prova local obrigatoria
+P1,roofer memorial,proximity,Memorial,transacional,,,,validar MCP,/service-areas/roofers-memorial-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof repair memorial,proximity,Memorial,transacional,,,,validar MCP,/service-areas/roofers-memorial-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof replacement memorial,proximity,Memorial,transacional,,,,validar MCP,/service-areas/roofers-memorial-tx/,city hub,criar,novo; prova local obrigatoria
+P1,roofer west university,proximity,West University,transacional,,,,validar MCP,/service-areas/roofers-west-university-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof repair west university,proximity,West University,transacional,,,,validar MCP,/service-areas/roofers-west-university-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof replacement west university,proximity,West University,transacional,,,,validar MCP,/service-areas/roofers-west-university-tx/,city hub,criar,novo; prova local obrigatoria
+P1,roofer heights,proximity,Heights,transacional,,,,validar MCP,/service-areas/roofers-heights-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof repair heights,proximity,Heights,transacional,,,,validar MCP,/service-areas/roofers-heights-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof replacement heights,proximity,Heights,transacional,,,,validar MCP,/service-areas/roofers-heights-tx/,city hub,criar,novo; prova local obrigatoria
+P1,roofer meyerland,proximity,Meyerland,transacional,,,,validar MCP,/service-areas/roofers-meyerland-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof repair meyerland,proximity,Meyerland,transacional,,,,validar MCP,/service-areas/roofers-meyerland-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof replacement meyerland,proximity,Meyerland,transacional,,,,validar MCP,/service-areas/roofers-meyerland-tx/,city hub,criar,novo; prova local obrigatoria
+P1,roofer westchase,proximity,Westchase,transacional,,,,validar MCP,/service-areas/roofers-westchase-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof repair westchase,proximity,Westchase,transacional,,,,validar MCP,/service-areas/roofers-westchase-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof replacement westchase,proximity,Westchase,transacional,,,,validar MCP,/service-areas/roofers-westchase-tx/,city hub,criar,novo; prova local obrigatoria
+P1,commercial roofer energy corridor,proximity,Energy Corridor,transacional,,,,validar MCP,/service-areas/roofers-energy-corridor-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof repair energy corridor,proximity,Energy Corridor,transacional,,,,validar MCP,/service-areas/roofers-energy-corridor-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof replacement energy corridor,proximity,Energy Corridor,transacional,,,,validar MCP,/service-areas/roofers-energy-corridor-tx/,city hub,criar,novo; prova local obrigatoria
+P1,roofer briar forest,proximity,Briar Forest / Cottage Grove,transacional,,,,validar MCP,/service-areas/roofers-briar-forest-cottage-grove-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof repair briar forest / cottage grove,proximity,Briar Forest / Cottage Grove,transacional,,,,validar MCP,/service-areas/roofers-briar-forest-cottage-grove-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof replacement briar forest / cottage grove,proximity,Briar Forest / Cottage Grove,transacional,,,,validar MCP,/service-areas/roofers-briar-forest-cottage-grove-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roofing company fulshear,suburb,Fulshear,transacional,,,,validar MCP,/service-areas/roofers-fulshear-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof repair fulshear,suburb,Fulshear,transacional,,,,validar MCP,/service-areas/roofers-fulshear-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof replacement fulshear,suburb,Fulshear,transacional,,,,validar MCP,/service-areas/roofers-fulshear-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roofing company richmond,suburb,Richmond,transacional,,,,validar MCP,/service-areas/roofers-richmond-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof repair richmond,suburb,Richmond,transacional,,,,validar MCP,/service-areas/roofers-richmond-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof replacement richmond,suburb,Richmond,transacional,,,,validar MCP,/service-areas/roofers-richmond-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roofing company jersey village,suburb,Jersey Village,transacional,,,,validar MCP,/service-areas/roofers-jersey-village-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof repair jersey village,suburb,Jersey Village,transacional,,,,validar MCP,/service-areas/roofers-jersey-village-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof replacement jersey village,suburb,Jersey Village,transacional,,,,validar MCP,/service-areas/roofers-jersey-village-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roofing company stafford,suburb,Stafford,transacional,,,,validar MCP,/service-areas/roofers-stafford-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof repair stafford,suburb,Stafford,transacional,,,,validar MCP,/service-areas/roofers-stafford-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof replacement stafford,suburb,Stafford,transacional,,,,validar MCP,/service-areas/roofers-stafford-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roofing company humble,suburb,Humble,transacional,,,,validar MCP,/service-areas/roofers-humble-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof repair humble,suburb,Humble,transacional,,,,validar MCP,/service-areas/roofers-humble-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof replacement humble,suburb,Humble,transacional,,,,validar MCP,/service-areas/roofers-humble-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roofing company atascocita,suburb,Atascocita,transacional,,,,validar MCP,/service-areas/roofers-atascocita-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof repair atascocita,suburb,Atascocita,transacional,,,,validar MCP,/service-areas/roofers-atascocita-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof replacement atascocita,suburb,Atascocita,transacional,,,,validar MCP,/service-areas/roofers-atascocita-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roofing company league city,suburb,League City,transacional,,,,validar MCP,/service-areas/roofers-league-city-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof repair league city,suburb,League City,transacional,,,,validar MCP,/service-areas/roofers-league-city-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof replacement league city,suburb,League City,transacional,,,,validar MCP,/service-areas/roofers-league-city-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roofing company friendswood,suburb,Friendswood,transacional,,,,validar MCP,/service-areas/roofers-friendswood-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof repair friendswood,suburb,Friendswood,transacional,,,,validar MCP,/service-areas/roofers-friendswood-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof replacement friendswood,suburb,Friendswood,transacional,,,,validar MCP,/service-areas/roofers-friendswood-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roofing company pasadena,suburb,Pasadena,transacional,,,,validar MCP,/service-areas/roofers-pasadena-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof repair pasadena,suburb,Pasadena,transacional,,,,validar MCP,/service-areas/roofers-pasadena-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof replacement pasadena,suburb,Pasadena,transacional,,,,validar MCP,/service-areas/roofers-pasadena-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roofing company baytown,suburb,Baytown,transacional,,,,validar MCP,/service-areas/roofers-baytown-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof repair baytown,suburb,Baytown,transacional,,,,validar MCP,/service-areas/roofers-baytown-tx/,city hub,criar,novo; prova local obrigatoria
+P2,roof replacement baytown,suburb,Baytown,transacional,,,,validar MCP,/service-areas/roofers-baytown-tx/,city hub,criar,novo; prova local obrigatoria
+P0,roof replacement cost houston,gap,Houston,informacional comercial,,,,validar MCP,/roof-replacement-cost-houston/,guide,criar,gap identificado na auditoria
+P0,roof repair cost houston,gap,Houston,informacional comercial,,,,validar MCP,/roof-repair-cost-houston/,guide,criar,gap identificado na auditoria
+P0,roof leak repair houston,gap,Houston,transacional urgente,,,,validar MCP,/roof-leak-repair-houston/,service,criar,gap identificado na auditoria
+P0,roof insurance claim houston,gap,Houston,informacional comercial,,,,validar MCP,/roof-insurance-claim-houston/,guide,criar,gap identificado na auditoria
+P1,roof inspection cost houston,gap,Houston,informacional comercial,,,,validar MCP,/roof-inspection-cost-houston/,guide,criar,gap identificado na auditoria
+P1,commercial roof repair houston,gap,Houston,transacional B2B,,,,validar MCP,/commercial-roof-repair-houston/,service,criar,gap identificado na auditoria
+P1,roof maintenance houston,gap,Houston,transacional B2B,,,,validar MCP,/roof-maintenance-houston/,service,criar,gap identificado na auditoria
+P1,emergency roof tarp houston,gap,Houston,transacional urgente,,,,validar MCP,/emergency-roof-tarp-houston/,service,criar,gap identificado na auditoria
+P1,hail damage roof repair houston,gap,Houston,transacional urgente,,,,validar MCP,/hail-damage-roof-repair-houston/,service,criar,gap identificado na auditoria
+P1,wind damage roof repair houston,gap,Houston,transacional urgente,,,,validar MCP,/wind-damage-roof-repair-houston/,service,criar,gap identificado na auditoria
+P1,seamless gutters houston,gap,Houston,transacional,,,,validar MCP,/seamless-gutters-houston/,service,criar,gap identificado na auditoria
+P1,metal roof cost houston,gap,Houston,informacional comercial,,,,validar MCP,/metal-roof-cost-houston/,guide,otimizar,gap identificado na auditoria
+P1,roof replacement financing houston,gap,Houston,transacional,,,,validar MCP,/financing/,service,otimizar,gap identificado na auditoria
+P1,gutter installation houston,gap,Houston,transacional,,,,validar MCP,/gutters-houston/,service,otimizar,gap identificado na auditoria
+P1,siding replacement houston,gap,Houston,transacional,,,,validar MCP,/siding-houston/,service,otimizar,gap identificado na auditoria
+P1,window replacement houston,gap,Houston,transacional,,,,validar MCP,/window-replacement-houston/,service,otimizar,gap identificado na auditoria
